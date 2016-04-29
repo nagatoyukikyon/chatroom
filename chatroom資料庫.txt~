@@ -1,0 +1,10 @@
+資料庫名 chatroom
+
+CREATE TABLE chatroom
+(
+chatid VARCHAR(50),
+chatname VARCHAR(50),
+chatcontent TEXT,
+chatdate DATETIME,
+chatyoutube TEXT
+);

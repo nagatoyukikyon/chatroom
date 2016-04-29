@@ -1,0 +1,9 @@
+<?php
+
+
+setcookie("passed","FALSE");
+setcookie("managerpassed","FALSE");
+header("Location:index.php" );
+
+
+?>
